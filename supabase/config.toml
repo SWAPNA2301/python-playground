@@ -1,0 +1,5 @@
+project_id = "hqalenlsymhoxdzgqwzq"
+
+[functions.chat-tutor]
+enabled = true
+verify_jwt = false
